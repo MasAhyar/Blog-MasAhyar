@@ -1,4 +1,3 @@
-<script type="text/javascript">
 /* sitemap satu label by MasAhyar.com */
 
 var numposts = 999;
@@ -28,4 +27,3 @@ function startpost(json){
 }
 
 function finished(){}
-</script>
